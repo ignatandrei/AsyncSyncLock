@@ -1,0 +1,17 @@
+starting AsyncTaskargument :0
+==>starting syncTaskargument :1
+<==ending syncTaskargument :1<==
+starting AsyncTaskargument :2
+==>starting syncTaskargument :3
+ending AsyncTaskargument :0
+ending AsyncTaskargument :2
+<==ending syncTaskargument :3<==
+starting AsyncTaskargument :4
+==>starting syncTaskargument :5
+<==ending syncTaskargument :5<==!starting AsyncTaskargument :6
+==>starting syncTaskargument :7
+ending AsyncTaskargument :6
+ending AsyncTaskargument :4
+<==ending syncTaskargument :7<==!starting AsyncTaskargument :8!==>starting syncTaskargument :9
+ending AsyncTaskargument :8
+<==ending syncTaskargument :9<==
